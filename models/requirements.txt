@@ -1,0 +1,7 @@
+unicorn
+fastapi
+tensorflow
+keras
+numpy
+json
+keras
