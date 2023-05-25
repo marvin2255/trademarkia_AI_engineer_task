@@ -5,7 +5,6 @@ from keras.layers import Embedding, GRU, Dense
 from keras.preprocessing.text import Tokenizer
 from keras.utils import pad_sequences
 from keras.callbacks import EarlyStopping
-# import joblib
 from keras.models import load_model
 
 # Load and preprocess the data
